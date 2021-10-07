@@ -16,16 +16,7 @@ obj= {
 
         "benefits": [
 
-         "RemoveWatermark",
-
-          "MemberEffects",
-
-          "ProjectPackageSharing",
-
-          "FutureMemberFeatures",
-
-          "AdvancedEasing"
-
+      
         ],
 
         "type": "subscription",
@@ -34,11 +25,11 @@ obj= {
 
         "autoRenewing": true,
 
-        "orderNumber": "ALIGHT MOTION ULTRA HACK",
+        "orderNumber": "лох",
 
         "productId": "com.alightcreative.motion.sub.yearly",
 
-        "period": "8558638368868y",
+        "period": "228y",
 
         "label": null,
 
