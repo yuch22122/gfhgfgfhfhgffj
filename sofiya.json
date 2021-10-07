@@ -40,7 +40,7 @@ obj= {
 
         "period": "1y",
 
-        "label": null,
+        "label": Administrator,
 
         "details": null,
 
@@ -48,7 +48,7 @@ obj= {
 
         "valid": true,
 
-        "linkStatus": "linked-login"
+        "linkStatus": "linked-nologin"
 
       }
 
