@@ -29,7 +29,7 @@ obj= {
 
         "productId": "com.alightcreative.motion.sub.yearly",
 
-        "period": "228y",
+        "period": "30s",
 
         "label": null,
 
