@@ -16,7 +16,16 @@ obj= {
 
         "benefits": [
 
-      
+          "RemoveWatermark",
+
+          "MemberEffects",
+
+          "ProjectPackageSharing",
+
+          "FutureMemberFeatures",
+
+          "AdvancedEasing"
+
         ],
 
         "type": "subscription",
@@ -25,11 +34,11 @@ obj= {
 
         "autoRenewing": true,
 
-        "orderNumber": "лох",
+        "orderNumber": "Взломманый премиум для itz.sofachka_rbx ПОЛНАЯ ПОДПИСКА",
 
         "productId": "com.alightcreative.motion.sub.yearly",
 
-        "period": "30s",
+        "period": "9999999y",
 
         "label": null,
 
@@ -53,6 +62,3 @@ obj= {
 
 
 $done({body: JSON.stringify(obj)});
-
-
-
